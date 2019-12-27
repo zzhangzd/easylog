@@ -1,0 +1,29 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+**/out
+
+# Mac
+.DS_Store
+
+# Maven
+**/log/
+**/target
+**/*.log
+**/tmp
+**/.tmp
+**/bin/**
+
+# IntelliJ project files
+.idea
+*.bak
+
+#SonarQUbe
+sonar-project.properties
+.sonar
